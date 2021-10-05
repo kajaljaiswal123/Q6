@@ -1,0 +1,20 @@
+sup{
+    color:blue;
+}
+a{
+    text-decoration: none;
+}
+p{
+    font-size: 18px;
+    font-family: sans-serif;
+}
+h2{
+    font-size: 25px;
+}
+ul{
+    font-family: sans-serif;
+    font-size: 18px;
+}
+ul li{
+    margin-top: 10px;
+}
